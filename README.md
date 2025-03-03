@@ -1,6 +1,6 @@
 # SREDA Multi-Page List Scraper
 
-This project is a web scraper designed to extract multi-page tabular data from **SREDA (Sustainable and Renewable Energy Development Authority)** and similar websites. The scraper fetches list data by iterating through paginated URLs and exports the extracted data into an Excel file.
+This project is a web scraper designed to extract multi-page tabular data from **SREDA (Sustainable and Renewable Energy Development Authority)** and similar websites. The scraper fetches list data by iterating through paginated URLs and exports the extracted data into an Excel file. The code should work fine for any BD govt's archaic websites! Just know the total page count of the list.
 
 ## Features
 - Automatically iterates through multiple pages.
